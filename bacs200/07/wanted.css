@@ -15,7 +15,7 @@ header {
 
 main {
     border: solid 3px lightblue;
-    background-color: yellow;
+    background-color: lightgray;
     font-family: Cursive, Lucida Console;
     border-radius: 25px;
     width: 900px;
