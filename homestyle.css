@@ -1,0 +1,13 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: black;
+    border: 3px solid lightpink;
+    background-color: white;
+}
+
+a {
+    color: lightcyan;
+}
