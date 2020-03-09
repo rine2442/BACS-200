@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+header {
+    border: solid 3px gray;
+    background-color: floralwhite;
+    text-align: center;
+    font-family: Cursive, Lucida Console;
+    border-radius: 25px;
+    width: 900px;
+    margin: auto;
+
+}
+
+main {
+    border: solid 3px lightblue;
+    background-color: lightgray;
+    font-family: Cursive, Lucida Console;
+    border-radius: 25px;
+    width: 900px;
+    margin: auto;
+    margin-top: 25px;
+
+}
+
+h1 {
+    font-size: 50px;
+    padding: 1px;
+    text-align: center;
+}
+
+aside {
+    background-color: floralwhite;
+    border: solid 2px;
+    padding-right: 300px;
+    float: right
+}
