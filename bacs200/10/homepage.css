@@ -1,0 +1,38 @@
+body {
+    background-color: lightblue;
+}
+
+header {
+    border: solid 3px lightpink;
+    background-color: lightcyan;
+    text-align: center;
+    font-family: Cursive, Lucida Console;
+    border-radius: 25px;
+    width: 900px;
+    margin: auto;
+
+}
+
+main {
+    border: solid 3px lightblue;
+    background-color: ghostwhite;
+    font-family: fantasy,Lucida Console;
+    border-radius: 25px;
+    width: 900px;
+    margin: auto;
+    margin-top: 25px;
+
+}
+
+h1 {
+    font-size: 50px;
+    padding: 1px;
+    text-align: center;
+}
+
+aside {
+    background-color: floralwhite;
+    border: solid 2px;
+    padding-right: 300px;
+    float: right
+}
